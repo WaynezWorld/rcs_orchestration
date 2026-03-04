@@ -1,0 +1,3 @@
+# Placeholder directory for segment data.
+# Real segment data folders go here in production runs,
+# or set SEGMENT_DATA_ROOT to an external path.
